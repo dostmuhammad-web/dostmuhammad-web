@@ -29,41 +29,30 @@ I love creating clean, interactive, and modern web applications using **React** 
 
 ---
 
-### 📬 Connect with Me
+### 📫 Connect with Me
 
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)badge&logo=gmail&logoColor=white)" alt="Gmail" /></a>
+<p align="left">
+  <a href="https://t.me/dostmuhammad" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:mominovxusniddina2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dostmuhammad-web&show_icons=true&theme=dark&hide_border=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dostmuhammad-web&layout=compact&theme=dark&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dostmuhammad-web&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dostmuhammad-web&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
-name: Generate Snake
+### 🐍 Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dostmuhammad-web/dostmuhammad-web/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dostmuhammad-web/dostmuhammad-web/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dostmuhammad-web/dostmuhammad-web/output/github-contribution-grid-snake.svg">
+</picture>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
