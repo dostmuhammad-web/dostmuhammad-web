@@ -40,15 +40,5 @@ I love creating clean, interactive, and modern web applications using **React** 
   </a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dostmuhammad-web&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dostmuhammad-web&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/dostmuhammad-web/dostmuhammad-web/output/github-contribution-grid-snake-dark.svg)
 
 
