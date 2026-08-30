@@ -46,8 +46,4 @@ I love creating clean, interactive, and modern web applications using **React** 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Frontend+Developer;ReactJS+%26+JavaScript;Building+Cool+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
-### 💡 Random Dev Joke
 
-<p align="center">
-  <img src="https://readme-jokes-three.vercel.app/api?theme=dark" alt="Joke" />
-</p>
