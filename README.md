@@ -41,4 +41,8 @@ I love creating clean, interactive, and modern web applications using **React** 
 </p>
 
 
-
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Frontend+Developer;ReactJS+%26+JavaScript;Building+Cool+Web+Apps">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Frontend+Developer;ReactJS+%26+JavaScript;Building+Cool+Web+Apps" alt="Typing SVG" />
+  </a>
+</p>
