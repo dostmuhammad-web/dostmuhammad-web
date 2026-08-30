@@ -41,13 +41,29 @@ I love creating clean, interactive, and modern web applications using **React** 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dostmuhammad-web&layout=compact&theme=dark&hide_border=true" alt="Top Langs" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dostmuhammad-web&theme=dark&hide_border=true" alt="Streak" />
-</p>
-### 🐍 Contribution Snake
+name: Generate Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dostmuhammad-web/dostmuhammad-web/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dostmuhammad-web/dostmuhammad-web/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dostmuhammad-web/dostmuhammad-web/output/github-contribution-grid-snake.svg">
-</picture>
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
