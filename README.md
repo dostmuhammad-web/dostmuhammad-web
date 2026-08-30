@@ -42,11 +42,11 @@ I love creating clean, interactive, and modern web applications using **React** 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </p>
-### 🎵 Hozir eshitilayotgan musiqa
+### 🎵 Currently Playing on Spotify
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/spotify-redirect">
-    <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify" />
+    <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" />
   </a>
 </p>
 
