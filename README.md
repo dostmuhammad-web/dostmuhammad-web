@@ -46,7 +46,8 @@ I love creating clean, interactive, and modern web applications using **React** 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Frontend+Developer;ReactJS+%26+JavaScript;Building+Cool+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/dostmuhammad-web/count.svg" alt="Visitor Counter" />
-</p>
 
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
