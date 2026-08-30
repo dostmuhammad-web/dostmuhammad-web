@@ -39,6 +39,17 @@ I love creating clean, interactive, and modern web applications using **React** 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
+### 🎵 Hozir eshitilayotgan musiqa
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/spotify-redirect">
+    <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify" />
+  </a>
+</p>
+
 
 
 <p align="center">
@@ -48,6 +59,3 @@ I love creating clean, interactive, and modern web applications using **React** 
 </p>
 
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-</p>
