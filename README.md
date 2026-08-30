@@ -33,3 +33,14 @@ I love creating clean, interactive, and modern web applications using **React** 
 
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)badge&logo=gmail&logoColor=white)" alt="Gmail" /></a>
 </p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dostmuhammad-web&show_icons=true&theme=dark&hide_border=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dostmuhammad-web&layout=compact&theme=dark&hide_border=true" alt="Top Langs" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dostmuhammad-web&theme=dark&hide_border=true" alt="Streak" />
+</p>
