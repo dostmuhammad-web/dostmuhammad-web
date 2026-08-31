@@ -31,17 +31,7 @@ I love creating clean, interactive, and modern web applications using **React** 
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://t.me/dostmuhammad" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:mominovxusniddina2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-</p>
+
 
 
 
