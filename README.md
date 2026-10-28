@@ -17,7 +17,7 @@ I love creating clean, interactive, and modern web applications using **React** 
 
 ### 🚀 Currently Working On
 
-- 💻 Building **EFood** landing page and dynamic web applications.
+- 💻 Building **`CinemaVerse`** landing page and dynamic web applications.
 - 🌱 Enhancing my knowledge in **JavaScript** ecosystem and modern **React** frameworks.
 
 ---
