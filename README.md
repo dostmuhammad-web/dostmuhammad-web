@@ -1,4 +1,4 @@
-# Hi there, I'm Do'st Muhammad 👋
+# Hi there, I'm Do'stMuhammad 👋
 
 Frontend & Web Developer based in Namangan, Uzbekistan. 
 I love creating clean, interactive, and modern web applications using **React** and JavaScript tools.
