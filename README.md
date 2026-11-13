@@ -29,7 +29,6 @@ I love creating clean, interactive, and modern web applications using **React** 
 
 ---
 
-### 📫 Connect with Me
 
 
 
